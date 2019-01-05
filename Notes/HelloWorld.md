@@ -22,7 +22,7 @@ SOURCES = hello.cpp
 
 и файл `hello.cpp`:
 
-```c++
+```cpp
 #include <QCoreApplication>
 #include <QDebug>
 

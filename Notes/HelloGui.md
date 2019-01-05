@@ -20,7 +20,7 @@ SOURCES = HelloGui.cpp
 
 и `HelloGui.cpp`
 
-```
+```cpp
 #include <QApplication>
 #include <QDialog>
 #include <QLabel>
